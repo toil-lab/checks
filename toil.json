@@ -1,0 +1,5 @@
+{
+  "$schema": "https://raw.githubusercontent.com/toil-lab/agents/main/contract/toil.schema.json",
+  "kind": "app",
+  "team": "checks"
+}

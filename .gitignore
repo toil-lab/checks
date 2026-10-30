@@ -1,0 +1,5 @@
+.env
+.env.*
+kubeconfig*
+*.kubeconfig
+.claude/settings.local.json

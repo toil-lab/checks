@@ -1,0 +1,6 @@
+# The developer agent owns the code; the DevOps agent owns CI, this file, and
+# toil.json. Only humans are in these teams, so a human approves every merge.
+*              @toil-lab/checks
+/.github/      @toil-lab/platform
+/CODEOWNERS    @toil-lab/platform
+/toil.json     @toil-lab/platform
